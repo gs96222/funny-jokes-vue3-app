@@ -1,4 +1,4 @@
-# funny-jokes-vue3-app
+# Funny Jokes Vue3 App
 
 A simple and intuitive app built with Vu3 for Funny Jokes.
 
